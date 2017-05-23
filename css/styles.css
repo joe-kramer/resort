@@ -1,0 +1,20 @@
+img {
+  width: 350px;
+  height: 350px;
+  margin: auto;
+  display: block;
+  padding-bottom: 10px;
+}
+
+ol {
+  list-style: none;
+}
+
+h1{
+  text-align: center;
+}
+
+h3 {
+  position: absolute;
+  bottom: 10px;
+}
