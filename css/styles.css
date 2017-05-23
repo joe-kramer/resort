@@ -1,3 +1,6 @@
+body {
+  background-color: skyblue;
+}
 img {
   width: 350px;
   height: 350px;
@@ -17,4 +20,12 @@ h1{
 h3 {
   position: absolute;
   bottom: 10px;
+}
+
+li {
+  color: darkblue;
+}
+
+p {
+  color: white;
 }
